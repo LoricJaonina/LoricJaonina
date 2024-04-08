@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Loric 👋
 
-<!--
-**LoricJaonina/LoricJaonina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Loric Jaonina a developer from France
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Loric_Jaonina-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loric-jaonina-9119942b0/) 
+[![Mail Badge](https://img.shields.io/badge/-Loric_Jaonina-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:loric.jaonina@epitech.eu)
+
+#### Top Technologies
+
+[![C Badge](https://img.shields.io/badge/-C-61DBFB?style=for-the-badge&labelColor=black&logo=C&logoColor=61DBFB)](#) [![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#)
+
+### Buisness
+- :paperclip: [CV](drivelink)
+- :email: loric.jaonina@epitech.eu
+
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LoricJaonina&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoricJaonina&layout=compact&&langs_count=8"/>
+</div>
